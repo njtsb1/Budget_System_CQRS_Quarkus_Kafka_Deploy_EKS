@@ -1,6 +1,6 @@
-# Daily Learning
+Daily Learning
 
-## Creating a Budget System, Using CQRS, Quarkus, Kafka and Deploy in EKS
+# Creating a Budget System, Using CQRS, Quarkus, Kafka and Deploy in EKS
 
 Project developed at Bootcamp Inter Java Developer with instruction from specialist [Wesley Fuchter](https://github.com/wesleyfuchter "Wesley Fuchter").</br>
 Deploying an application written in Java/Kotlin on Amazon's Elastic Kubernetes Service. The application is an example of the CQRS pattern that includes two Quarkus services that communicate through an asynchronous bus using Kafka. Learning how to create Kubernetes manifests for deployment on EKS and what settings are needed to have the environment running in production.
